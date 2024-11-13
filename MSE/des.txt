@@ -1,1 +1,2 @@
 mse is an easy to use music mapper for gdevelop
+it presently needs you to download or play on on itch.io
